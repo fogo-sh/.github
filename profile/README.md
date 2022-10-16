@@ -6,4 +6,4 @@ a collection of pals, with a collection of repos
 
 - landing page - https://fogo.sh/
 - grackdb - https://grackdb.fogo.sh/
-
+- library - https://library.fogo.sh/
